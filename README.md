@@ -1,2 +1,0 @@
-# FURYSP
-Trabajo-Grupal
